@@ -3,6 +3,7 @@ let idade = prompt("Digite sua idade:")
 
 validacao(idade);
 
+
 function validacao(n) {
     if ( !isNaN(Number(n)) ) {
         calculoIdade(n);        
