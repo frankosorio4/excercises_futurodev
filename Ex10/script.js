@@ -8,7 +8,7 @@ function validacao(n) {
         calculoIdade(n);        
     }
     else{
-        alert("A entrada fornecida não é valida.")
+        alert("A idade fornecida não é valida.")
     }
 }
 
